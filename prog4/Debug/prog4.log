@@ -1,0 +1,4 @@
+﻿  prog4.cpp
+C:\Users\PC\source\repos\prog4\prog4.cpp(173): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\PC\source\repos\prog4\prog4.cpp(182): warning C4018: <: несоответствие типов со знаком и без знака
+  prog4.vcxproj -> C:\Users\PC\source\repos\prog4\Debug\prog4.exe
